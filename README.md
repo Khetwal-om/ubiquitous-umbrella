@@ -1,8 +1,8 @@
 "# ubiquitous-umbrella" 
 
+![image](a.jpg)
 
-
-![GitHub Logo](media.png)
+![GitHub Logo](medium.png)
 Format: ![Alt Text](url)
 ![Test Image 1](3DTest.png)
 
