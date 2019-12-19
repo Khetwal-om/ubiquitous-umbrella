@@ -1,6 +1,9 @@
 "# ubiquitous-umbrella" 
 
-![image](a.jpg)
+![wow](a.jpg)
+
+![natalie](b.jpg)
+
 
 ![GitHub Logo](medium.png)
 Format: ![Alt Text](url)
