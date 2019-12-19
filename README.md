@@ -2,5 +2,5 @@
 
 
 
-![GitHub Logo](/media.png)
+![GitHub Logo](media.png)
 Format: ![Alt Text](url)
